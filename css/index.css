@@ -16,6 +16,7 @@ a:hover {
 /* nav */
 .nav {
   background: #0c0116;
+  height: 60px;
   color: white;
 }
 .logo {
@@ -38,7 +39,8 @@ a:hover {
   width: 80%;
   float: right;
 }
-.content .bar ul {
+
+#bar {
   display: flex;
   flex-wrap: wrap;
   justify-content: end;
@@ -48,13 +50,16 @@ a:hover {
 .content ul li {
   margin: 10px;
 }
+.close {
+  display: none;
+}
 
 /* header */
 .header {
   width: 100%;
-  height: 100vh;
+  height: calc(100vh - 60px);
   background-image: url("../img/banner.png");
-  background-position: center;
+  /* background-position: center; */
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -63,12 +68,21 @@ a:hover {
   .content ul {
     display: none;
   }
+  .h100 {
+    height: 100vh;
+  }
+  .h0 {
+    height: 0;
+  }
 
   .bar .fa-bars {
     cursor: pointer;
     display: block;
     font-size: 30px;
     margin: 10px;
+  }
+  .close {
+    display: inline;
   }
   #bar {
     display: flex;
@@ -78,7 +92,6 @@ a:hover {
     left: 0;
     overflow: hidden;
     width: 100%;
-    height: 0vh;
     justify-content: center;
     align-items: center;
     flex-direction: column;

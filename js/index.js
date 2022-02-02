@@ -1,12 +1,15 @@
 let bar = document.getElementById('bar');
 const cl = ()=>{
-    if(bar.style.height==="100vh"){
-        bar.style.height="0"
-        bar.removeChild('div')
+    if(bar.className==="h0"){
+        bar.classList.add("h100")
+        bar.classList.remove("h0")
     }
     else{
-        bar.style.height="100vh"
-        bar.appendChild(document.createElement('div'))
+        bar.classList.add("h0")
+        bar.classList.remove("h100")
+
+        console.log()
+
 
     }
 }
