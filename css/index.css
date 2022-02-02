@@ -50,7 +50,7 @@ a:hover {
 .content ul li {
   margin: 10px;
 }
-.content .bar ul .close {
+.content .bar ul button {
   display: none;
 }
 
@@ -81,8 +81,8 @@ a:hover {
     font-size: 30px;
     margin: 10px;
   }
-  .close {
-    display: inline;
+  .content .bar ul button {
+    display: none;
   }
   #bar {
     display: flex;
