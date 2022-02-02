@@ -82,7 +82,7 @@ a:hover {
     margin: 10px;
   }
   .content .bar ul button {
-    display: inline-block;
+    display: inline-block !important;
   }
   #bar {
     display: flex;
