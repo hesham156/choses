@@ -50,7 +50,7 @@ a:hover {
 .content ul li {
   margin: 10px;
 }
-.close {
+.content .bar ul .close {
   display: none;
 }
 
