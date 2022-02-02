@@ -82,7 +82,7 @@ a:hover {
     margin: 10px;
   }
   .content .bar ul button {
-    display: none;
+    display: none !important;
   }
   #bar {
     display: flex;
