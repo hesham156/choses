@@ -307,7 +307,7 @@ footer .footer-sub .footer-wrapper img,footer .footer-sub .fs-cont img {
 }
 
 .site-header,.main-slider img,body.salla-theme_4 .section-header .section--title span,body > section.u-white.py-4 > div > div:before,.a2a_kit.a2a_kit_size_32.a2a_default_style {
-    background: linear-gradient(to left,var(--main-color),var(--main-text-color2))!important
+    background-color: linear-gradient(to left,var(--main-color),var(--main-text-color2))!important
 }
 
 .salla-theme_1 footer .footer-sub .footer-wrapper {
