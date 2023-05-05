@@ -364,7 +364,7 @@ position: absolute;
 }
 @media only screen and (max-width: 991px){
 .salla-theme_6 .category-grid>div .category-featured {
-    height: 222px !important;
+    height: auto !important;
 }
 }
 .section--title span,.button-more{
