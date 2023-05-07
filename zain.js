@@ -1,3 +1,5 @@
+/*create by hesham ahmed ==> 01017129613 || 01227728001 && https://wa.me/+201017129613 */
+
 const mylist = Array.from(document.querySelectorAll('.root-level.data-collapsible.mobile-accordion.has-children.slide-toggler'))
 console.log(mylist)
 mylist[0].classList.add('collapsible-open')
