@@ -1,0 +1,229 @@
+/*create by hesham ahmed ==> 01017129613 || 01227728001 && https://wa.me/+201017129613 */
+
+.info-block__list.grid.gap-2\.5.sm\:gap-8.grid-cols-1.has-2-cols.lg\:grid-cols-2{
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info-block__list.grid.gap-2\.5.sm\:gap-8.grid-cols-1.has-2-cols.lg\:grid-cols-2 > div{
+width:100%;
+background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+        background-color: #ffffff !important;
+
+    height: 300px;
+}
+.md\:grid-cols-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.banner-entry {
+    grid-column: unset !important;
+}
+div#swiper-wrapper-c8e2e24f59c3c4d8,section#main-links-16 .swiper-wrapper {
+    justify-content: center!important;
+}
+div#mainnav {
+    border-radius: 30px;
+        overflow: hidden;
+
+}
+.banner-entry {
+   
+    background-color: white;}
+    footer.store-footer {
+    background-image: url(https://i.ibb.co/wYnxtCD/pathway-middle-forest-with-big-green-leafed-trees.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.col-span-6.sm\:col-span-3.lg\:col-span-3 ,.col-span-12.sm\:col-span-6.lg\:col-span-3{
+    /* padding: 10px; */
+    background: white;
+    border-radius: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bg-gray-100,.bg-darker.text-white {
+    background-color: transparent;
+}
+.s-block:first-of-type {
+    overflow:hidden;
+}
+@media (min-width:900px){
+.s-block:first-of-type {
+    margin-top: -10rem;
+}
+}
+@media (max-width:900px){
+li#offers:after {
+    content: '';
+    width: 70%;
+    height: 80px;
+    background-image: url(https://cdn.salla.sa/form-builder/4TDuxjoyN0rKhBQpLMGFuMdOM5i5KLJdHywwp5Gv.png);
+    position: absolute !important;
+    background-repeat: no-repeat;
+    left: 0;
+    top: 24px;
+    background-size: contain;
+}
+.collapsible-open > div{
+max-height:100vh !important;
+}
+.collapsible-open .collapsible-open > div > ul{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.collapsible-open .collapsible-open > div > ul>li{
+    width: 100px !important;
+
+height: 100px;
+    background: #9dbab8;
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .collapsible-open .collapsible-open > div > ul>li>a{
+      border:0!important;
+      color:white!important;
+      background:transparent!important;
+    }
+    .collapsible-open .collapsible-open > div > ul>li>a{
+    padding:0 !important
+    }
+ul.main-menu > li > a.collapsible-title:before{
+content: '';
+  
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    background-position: center;
+}
+a[href="https://salla.sa/beautyselect/category/XzGpvz"]:before{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/3163/3163203.png);
+}
+a[href="https://salla.sa/beautyselect/category/QzyXqY"]:before{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/2553/2553642.png);
+}
+a[href="https://salla.sa/beautyselect/category/RvdBNV"]:before{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5452/5452123.png);
+}
+a[href="https://salla.sa/beautyselect/category/YzRapD"]:before{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/4556/4556185.png);
+}
+a[href="https://salla.sa/beautyselect/category/dbaepy"]:before{
+  background-image: url(https://as2.ftcdn.net/v2/jpg/05/36/72/79/1000_F_536727971_R6QVJec9krHCvQmP2m6x94k1bHE3QYmS.jpg);
+}
+a[href="https://salla.sa/beautyselect/offers"]:before{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/791/791968.png);
+}
+a[href="https://salla.sa/beautyselect/brands"]:before{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/5486/5486254.png);
+}
+section.s-block.s-block--photos-slider .swiper.s-slider-container.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-rtl.swiper-backface-hidden {
+padding:0 !important;
+}
+button.close-menu.sicon-cancel.lg\ ,#mainnav .close-menu{
+    position: absolute;
+    left: 38px !important;
+    z-index: 1111111111111111111111;
+}
+/*#mainnav .has-children .sub-menu{
+position: absolute;
+    left: -200px;
+    top: 0;
+        background: white;
+
+}
+ul.main-menu{
+    width: 46% !important;
+
+}*/
+ul.main-menu > li > .sub-menu{
+position: absolute !important;
+    top: 100px;
+    width: 65% !important;
+    left: 0;
+}
+.main-menu .has-children>a:after{
+display:none;
+}
+section#best-offers-7-slider .carousel-slider .swiper-wrapper>div,section#best-offers-11-slider .carousel-slider .swiper-wrapper>div,section#best-offers-2-slider .carousel-slider .swiper-wrapper>div,section#best-offers-15-slider .carousel-slider .swiper-wrapper>div  {
+
+    width: 60%;
+}
+div#mainnav {
+    width: 100%;
+    min-width: 100%;
+    border-radius: 0;
+}
+.navbar-brand img {
+    max-height: 3rem;
+    max-width: 110px;
+}
+.md\:grid-cols-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap:0;
+}
+a.lazy__bg.lazy-background.loaded {
+    background-size: contain;
+        background-repeat: no-repeat;
+
+}
+.info-block__list.grid.gap-2\.5.sm\:gap-8.grid-cols-1.has-2-cols.lg\:grid-cols-2 > div{
+    height: 95px;
+
+}
+ section#main-links-16 .swiper-wrapper {
+ align-items: center;
+scale: 0.7;
+    flex-direction: row; }
+ section#main-links-16 .swiper.s-slider-container.swiper-initialized.swiper-horizontal.swiper-pointer-events.swiper-rtl.swiper-backface-hidden {
+padding-left:0 !important;
+}
+section.s-block.s-block--photos-slider .swiper.s-slider-container.swiper-initialized.swiper-horizontal.swiper-rtl.swiper-ios.swiper-backface-hidden{
+padding-left:0 !important;
+
+}
+#mainnav .main-menu{
+    align-items: baseline;
+
+}
+#mainnav .main-menu > li {
+    width: 30%;}
+    [dir=rtl] #mainnav li>a {
+    text-align: right;
+    flex-direction: column;
+}
+ul.main-menu span {
+    text-align: center;
+}
+[dir=rtl] #mainnav li>a {
+  
+    background: #f9f9f9;
+    border: 1px solid white;
+}
+}
+.banner-entry a:hover:before {
+    opacity: 0 !important;
+}
+salla-slider[type]:not(.hydrated)>div>div, salla-slider[type]:not(.hydrated) .swiper>div>div>div, .carousel-slider .swiper-wrapper>div {
+ 
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.product-entry--vertical {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+img.lazy-load.loaded{
+    background: white;
+
+}
+._hj-widget-container._hj-widget-theme-light,div#whatsapp_chat_widget {
+    display: none;
+}
