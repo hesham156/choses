@@ -576,7 +576,7 @@ body.salla-theme_6 .product-details__title, .products-grid.eq-height .product > 
 }
 /*animate gggggg*/
 
-
+@media only screen and (max-width: 991px){
 .welmsg{
     width: 100%;
     height: 100vh !important;
@@ -6337,6 +6337,7 @@ body.salla-theme_6 .product-details__title, .products-grid.eq-height .product > 
 	to {
 		transform: scale(0) rotate(-0.5turn);
 	}
+}
 }
 div#tabbyPromo *{
 color:black !important;
