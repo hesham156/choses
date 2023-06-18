@@ -1,0 +1,274 @@
+@import url(https://raw.githack.com/hesham156/choses/main/heshamAhmed.css);
+.logo a,
+body.store-home:after,
+body.store-home:before {
+    background-image: url(https://cdn.salla.sa/rDVxB/hh7i1P1QN7HzZ4wlUQFsfrEKTieMUkPt60VG4SKE.png) !important;
+}
+.container.banner,
+.container.p-0.px-md-3 {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.logo a {
+    scale: 1.3;
+}
+.footer-main .container:before {
+    background-image: url(https://cdn.salla.sa/rDVxB/hh7i1P1QN7HzZ4wlUQFsfrEKTieMUkPt60VG4SKE.png) !important;
+}
+.footer-main {
+  background: linear-gradient(139deg, transparent, #000, #000), url(https://cdn.salla.sa/rDVxB/hh7i1P1QN7HzZ4wlUQFsfrEKTieMUkPt60VG4SKE.png);
+    background-color: #000 !important;
+        background-size: contain;
+
+}
+body.store-home:after,
+body.store-home:before {
+    display: none !important;
+}
+body,
+section.section {
+    background-image: unset !important;
+}
+@keyframes signal {
+    0% {
+        box-shadow: 0 0 0 0 #dfd8fb;
+    }
+    100% {
+        box-shadow: 0 0 0 10px #fff;
+    }
+}
+.product .product-footer .product-add {
+    margin-bottom: 0 !important;
+    border-radius: 1px 0 12px 12px !important;
+    background: #0f3e66 !important;
+}
+.product-title {
+    color: #363062 !important;
+    line-height: 27px !important;
+}
+.banner img {
+    margin: 0;
+    width: 100%;
+    border-radius: 0;
+}
+.site-header,
+.sub-nav {
+    background:#fff9f1 !important;
+    border: 0;
+}
+.sub-nav .main-menu > li > a {
+    color: #000 !important;
+    font-size: 18px !important;
+    font-weight: 600;
+    margin: 5px !important;
+}
+#cl_toggle,
+.circle-action,
+.contact-link,
+.login-link,
+.notification-link,
+.store-contact a,
+.store-header-min .back-icon {
+    background: #fff !important;
+    color: #000 !important;
+}
+.panel,
+.section-actions,
+.section-header .section--title,
+.section-header .section--title span,
+.thumbnail,
+.thumbnail.page-box,
+.thumbnail.page-box span,
+section,
+section.section {
+    background-color: #fff0 !important;
+}
+.footer-main,
+.footer-sub {
+    background-repeat: no-repeat !important;
+}
+.login-form .panel-title::before,
+.sub-nav-header::before {
+    background-image: url(https://cdn.salla.sa/rDVxB/hh7i1P1QN7HzZ4wlUQFsfrEKTieMUkPt60VG4SKE.png) !important;
+}
+a.login-link.circle-action.dropdown-store-header {
+    display: inline-block !important;
+}
+.sub-nav__close svg {
+    fill: #0fbbbb;
+}
+.sub-nav-header a {
+    color: #fff !important;
+}
+.logo a {
+    height: 76px;
+    width: 101px;
+}
+section.section {
+    animation: 50s infinite pattern-anim;
+}
+.footer-sub p:before {
+    color: #fff;
+    content: " الحقوق محفوظة  -naahda ";
+}
+@keyframes pattern-anim {
+    0% {
+        background-position-y: 0;
+    }
+    100% {
+        background-position-y: 800px;
+    }
+}
+.a2a_kit.a2a_kit_size_32.a2a_default_style,
+.main-slider img,
+.site-header,
+body.salla-theme_4 .section-header .section--title span,
+body > section.u-white.py-4 > div > div:before {
+    background: unset;
+}
+.site-header .header-wrapper .sub-nav__menu svg {
+    fill: #000 !important;
+    filter: unset;
+}
+.category-featured.category-featured--no-label {
+    height: 390px !important;
+}
+body {
+    background-repeat: repeat-y;
+    background-image: url(https://i.ibb.co/Xj30mBz/background.png) !important;
+    background-size: cover !important;
+    background-position: center;
+}
+.login-title,
+.text-muted {
+    color: #0a0f1d;
+}
+.footer-item:first-of-type .footer-title,
+.section-header:before,
+.sub-nav .main-menu li.sub-menu-header.categories-holder > ul.store-categories > li:nth-child(n) > a:before,
+a[href="tel:+966580484313"] {
+    display: none;
+}
+.sub-nav-header a.login-link {
+    background: #aba487 !important;
+}
+header.site-header.sticky {
+    background: #fff9f1 !important;
+}
+#stars,
+#stars2,
+#stars3 {
+    z-index: 1111111111111111111111111111;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+body.salla-theme_1 #sort {
+    background-color: #fff0;
+}
+
+.a2a_kit.a2a_kit_size_32.a2a_default_style {
+    background: linear-gradient(to left, #632c5a, var(--main-text-color2)) !important;
+}
+.section-header .section--title span {
+    color: #fc9f03 !important;
+}
+body:not(.salla-theme_6) .category-featured a {
+    background-size: contain;
+}
+.col-sm-4.col-md-4 {
+    width: 33% !important;
+}
+@media (max-width: 900px) {
+    .category-featured.category-featured--no-label {
+        height: 190px !important;
+    }
+}
+p.myclass:before {
+    display: none;
+}
+
+.sub-nav .sub-nav-content.is-active {
+    background: linear-gradient(to bottom,transparent 20%,var(--main-text-color2) 80%),url(https://cdn.salla.sa/rDVxB/hh7i1P1QN7HzZ4wlUQFsfrEKTieMUkPt60VG4SKE.png) no-repeat !important;
+}
+.store-contact a {
+    padding: 6px;
+    margin: 22px 0 !important;
+}
+li#\"offers\"{
+left: -35%;
+    background: #003c68;
+    color: white !important;
+    border-radius: 10px;
+    padding: 0 10px !important;
+}
+li#\"offers\" a{
+    color: white !important;
+        padding: 0 10px !important;
+
+
+}
+.product-details__title {
+    color: #fc9f03!important;
+}
+.product-price, .product-details__price, .product-price:hover {
+    color: #fc9f03!important;
+    }
+    .modal-content {
+    background-color: #ffffff!important;
+}
+.cart-title {
+    color: #fc9f03 !important;
+}
+.breadcrumb>.active {
+    color: #fc9f03 !important;
+}
+.offers-link, .price-after {
+    color: #ffb743!important;
+}
+ol.breadcrumb li a {
+    color: aliceblue;
+}
+a.add-cart-large.add_to_cart_large_btn[data-product-id="1867896261"]:before, a.add-cart-large.add_to_cart_large_btn[data-product-id="607614468"]:before ,     a.add-cart-large.add_to_cart_large_btn[data-product-id="1511630292"]:before,      a.add-cart-large.add_to_cart_large_btn[data-product-id="1661807774"]:before,  a.add-cart-large.add_to_cart_large_btn[data-product-id="2040707854"]:before {
+
+    position: absolute;
+    top: -25px;
+    color: black;
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin: auto;
+    right: -15px;
+}
+a.add-cart-large.add_to_cart_large_btn[data-product-id="1867896261"]:before {
+    content: 'كن انت القارئ رقم 100';
+    }
+    a.add-cart-large.add_to_cart_large_btn[data-product-id="607614468"]:before {
+    content: 'كن انت القارئ رقم 90';
+    }
+      a.add-cart-large.add_to_cart_large_btn[data-product-id="1511630292"]:before {
+    content: 'كن انت القارئ رقم 347';
+    }
+      a.add-cart-large.add_to_cart_large_btn[data-product-id="1661807774"]:before {
+    content: 'كن انت القارئ رقم 194';
+    }
+      a.add-cart-large.add_to_cart_large_btn[data-product-id="2040707854"]:before {
+    content: 'كن انت القارئ رقم 243';
+    }
+    @media only screen and (max-width: 767px){
+body:not(.salla-default) .cart-fav {
+   
+    padding: 42px 10px 10px 10px;
+    background-color: #ffffff!important;
+}
+a.add-cart-large.add_to_cart_large_btn[data-product-id="1867896261"]:before, a.add-cart-large.add_to_cart_large_btn[data-product-id="607614468"]:before, a.add-cart-large.add_to_cart_large_btn[data-product-id="1511630292"]:before, a.add-cart-large.add_to_cart_large_btn[data-product-id="1661807774"]:before, a.add-cart-large.add_to_cart_large_btn[data-product-id="2040707854"]:before{
+top:8px;
+}
+}
+.product-detials__desc {
+    background: white;
+    padding: 10px;
+    border-radius: 16px;
+    text-align: inherit;
+}
