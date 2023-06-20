@@ -230,7 +230,7 @@ li#\"offers\" a{
 ol.breadcrumb li a {
     color: aliceblue;
 }
-a.add-cart-large.add_to_cart_large_btn[data-product-id="1867896261"]:before, a.add-cart-large.add_to_cart_large_btn[data-product-id="607614468"]:before ,     a.add-cart-large.add_to_cart_large_btn[data-product-id="1511630292"]:before,      a.add-cart-large.add_to_cart_large_btn[data-product-id="1661807774"]:before,  a.add-cart-large.add_to_cart_large_btn[data-product-id="2040707854"]:before {
+/*a.add-cart-large.add_to_cart_large_btn[data-product-id="1867896261"]:before, a.add-cart-large.add_to_cart_large_btn[data-product-id="607614468"]:before ,     a.add-cart-large.add_to_cart_large_btn[data-product-id="1511630292"]:before,      a.add-cart-large.add_to_cart_large_btn[data-product-id="1661807774"]:before,  a.add-cart-large.add_to_cart_large_btn[data-product-id="2040707854"]:before {
 
     position: absolute;
     top: -25px;
@@ -255,7 +255,7 @@ a.add-cart-large.add_to_cart_large_btn[data-product-id="1867896261"]:before {
     }
       a.add-cart-large.add_to_cart_large_btn[data-product-id="2040707854"]:before {
     content: 'كن انت القارئ رقم 243';
-    }
+    }*/
     @media only screen and (max-width: 767px){
 body:not(.salla-default) .cart-fav {
    
