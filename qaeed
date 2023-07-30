@@ -1,0 +1,1631 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+.author.post-author,.post-inner >p {
+    display: none !important;
+}
+.blog-post.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blog{
+	    align-items: center;
+flex-direction: column;
+    justify-content: center;
+}
+section.content-section{
+	    background: #76aabf;
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-wrap:wrap;
+}
+.clients figure{
+	border:0;
+}
+footer,section,.works li figure,.works li figure>a{
+	    background-color: transparent !important;
+}
+body,main.tourog-page{
+	background:var(--primary-color) !important;
+}
+.selected figure{
+	    background: #76aabf;
+}
+footer.footer.spacing{
+	    background-position: center 70%;
+}
+.works li:nth-child(4) {
+    margin-top: 0;
+}
+.splitting .char {
+    display: contents !important;
+}
+section.content-section:last-child {
+    background: #76aabf !important;
+}
+.bg-image:after {
+    content: '';
+    background: linear-gradient(0deg, #3B5667 0%, rgba(59, 86, 103, 0.85) 23.75%, rgba(59, 86, 103, 0.06) 99.99%);
+ !important;
+
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+.site-navigation .layer{
+	background: var(--primary-color);
+	
+}
+
+.slider .gallery-thumbs .swiper-slide,.all-cases-link {
+    display: none;
+}
+div[id="post-431"] section.vc_section section.content-section {
+    padding: 55px;
+    margin: 10px 0 32px;
+    /* background: black !important; */
+    border-radius: 53px;
+    border-radius: 200px;
+    background: var(--secondry-color) !important;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+}
+section.content-section:has(div[id="post-431"]),section.content-section:has(div[id='post-462']) {
+       background: var(--primary-color) !important;
+
+}
+section.content-section:has(div[id='post-462']) section.content-section:last-child{
+	    background: transparent !important;
+}
+section.content-section:has(div[id="post-431"])  .vc_row.wpb_row.vc_row-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.content-section:has(div[id="post-431"])  .vc_row.wpb_row.vc_row-fluid strong{
+	color:var(--icon-color);
+	
+}
+.ourstory p,p{
+	text-align: center;
+    color: #FFF;
+    text-align: right;
+    font-family: Cairo;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 55px;
+}
+.ourstory >section{
+	padding:10px;
+}
+section#imgsec{
+	background-image: url(http://qaeed.com/wp-content/uploads/2023/07/Group-49.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height:144vh;
+}
+a.goon {
+    width: 40%;
+    margin: auto;
+    cursor: pointer;
+    flex-shrink: 0;
+    display: block;
+    border-radius: 200px;
+    background: var(--d-9-d-9-d-9, #D55E0E);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid.vc_custom_1583658620539,.section-title.wow.text-center.light.fadeIn.words.chars.splitting.animated{
+	    padding: 0 !important;
+
+}
+.caption.wow.words.chars.splitting.animated>ul>li {
+    width: 100%;
+    color: var(--d-9-d-9-d-9, #D55E0E);
+    font-family: Cairo;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.caption.wow.words.chars.splitting.animated>ul>li,.caption.wow.words.chars.splitting.animated h3{
+	text-align:center;
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated * {
+    text-align: center;
+    margin: 0px 0 5px 0;
+}
+.vc_row.wpb_row.vc_row-fluid.vc_custom_1583666254661{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated>h2{
+	color: var(--icon-color);
+    font-family: Cairo;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.section-title.wow.light.fadeIn.words.chars.splitting.animated>h5{
+	color: var(--3, #76AABF);
+    font-family: Cairo;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.text-content-block.wow.light.fadeIn.words.chars.splitting.animated>p,.wpb_text_column.wpb_content_element.wpb_animate_when_almost_visible.wpb_fadeInDown.fadeInDown.wpb_start_animation.animated p{
+	color: var(--icon-color);
+    text-align: right;
+    font-family: Cairo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+}
+footer.footer.spacing *,.works li .caption h3 a,.wow.words.chars.splitting.animated:not(.selected) * {
+    color: var(--icon-color) !important;
+}
+header.page-header{
+	    background-color: var(--active-color) !important;
+
+}
+.wpb_text_column :last-child, .wpb_text_column p:last-child{
+	    color: var(--icon-color) !important;
+
+}
+.site-navigation .inner ul li a{
+    color: var(--icon-color);
+}
+.all-cases-link b{
+	background: var(--icon-color);
+    color: var(--primary-color);
+	
+}
+.hamburger__line-in::after, .hamburger__line-in::before{
+	    background-color: var(--icon-color);
+
+}
+.equalizer span{
+	    background: var(--icon-color);
+}
+@media(max-width:990px){
+	.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing>div{
+		width:50%;
+	}
+	.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing>div>figure{
+		padding:0;
+	}
+	.slider .swiper-container .swiper-slide .slide-video-bg video {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    object-fit: cover;
+}
+	.slider,.left-side,.page-header{
+		height:45vh;
+	}
+	.office-slider-block .content-slider {
+    height: 167px;
+}
+	.left-side{
+		    padding: 0;
+
+	}
+	section.content-section:has(div[id="post-431"]) .vc_row.wpb_row.vc_row-fluid{
+		    flex-direction: column;
+
+	}
+	a.goon { 
+    width: 90%;
+	}
+	section#imgsec{
+		min-height:75vh;
+	}
+		section.vc_section.ourstory:nth-of-type(2) .vc_row.wpb_row.vc_row-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+	.vc_row.wpb_row.vc_row-fluid.vc_custom_1583666254661{
+		display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+	}
+	.left-side {
+    padding-top: 10px;
+}
+	.section-title.wow.light.fadeIn.words.chars.splitting.animated>h2{
+	    font-size: 30px;}
+	.navbar{
+		display:none;
+	}
+
+}
+aside.left-side {
+    left: unset;
+    right: 0;
+}
+.slider .swiper-button-next{
+	right: auto;
+    left: 40px;
+}
+.slider .swiper-button-prev{
+	right: auto;
+    left: 120px;
+}
+.footer-bottom span,.equalizer,.social-links {
+    display: none !important;
+}
+
+.left-side {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+	    top: 32px !important;
+padding:0;
+}
+.left-side .hamburger {
+    margin: 0 auto 0 30px;
+}
+.left-side .logo img {
+    height: 75px;
+}
+.themcolor{
+	top:85px !important;
+}
+.headerD {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1111111111;
+    color: white;
+}
+.slider .swiper-container .swiper-slide{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	padding:0;
+}
+.headerD .type,.headerD .type p,.headerD .type h2{
+	    text-align: center;
+}
+.headerD .type h2{
+	text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width:800px){
+.left-side{
+		height: 60px !important;
+    top: 0 !important;
+    padding: 0 !important;
+	}
+	.headerD{
+		    flex-direction: column;
+
+	}
+	
+}
+#withyou figure.wpb_wrapper.vc_figure,#withyou figure.wpb_wrapper.vc_figure *{
+	width:100%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+.author.post-author,.post-inner >p {
+    display: none !important;
+}
+.blog-post.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blog{
+	    align-items: center;
+flex-direction: column;
+    justify-content: center;
+}
+section.content-section{
+	    background: #76aabf;
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-wrap:wrap;
+}
+.clients figure{
+	border:0;
+}
+footer,section,.works li figure,.works li figure>a{
+	    background-color: transparent !important;
+}
+body,main.tourog-page{
+	background:var(--primary-color) !important;
+}
+.selected figure{
+	    background: #76aabf;
+}
+footer.footer.spacing{
+	    background-position: center 70%;
+}
+.works li:nth-child(4) {
+    margin-top: 0;
+}
+.splitting .char {
+    display: contents;
+}
+section.content-section:last-child {
+    background: #76aabf !important;
+}
+.bg-image:after {
+    content: '';
+    background: linear-gradient(0deg, #3B5667 0%, rgba(59, 86, 103, 0.85) 23.75%, rgba(59, 86, 103, 0.06) 99.99%);
+ !important;
+
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+.site-navigation .layer{
+	background: var(--primary-color);
+	
+}
+
+.slider .gallery-thumbs .swiper-slide,.all-cases-link {
+    display: none;
+}
+div[id="post-431"] section.vc_section section.content-section {
+    padding: 55px;
+    margin: 10px 0 32px;
+    /* background: black !important; */
+    border-radius: 53px;
+    border-radius: 200px;
+    background: var(--secondry-color) !important;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+}
+section.content-section:has(div[id="post-431"]),section.content-section:has(div[id='post-462']) {
+       background: var(--primary-color) !important;
+
+}
+section.content-section:has(div[id='post-462']) section.content-section:last-child{
+	    background: transparent !important;
+}
+section.content-section:has(div[id="post-431"])  .vc_row.wpb_row.vc_row-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.content-section:has(div[id="post-431"])  .vc_row.wpb_row.vc_row-fluid strong{
+	color:var(--icon-color);
+	
+}
+.ourstory p,p{
+	text-align: center;
+    color: #FFF;
+    text-align: right;
+    font-family: Cairo;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 55px;
+}
+.ourstory >section{
+	padding:10px;
+}
+section#imgsec{
+	background-image: url(http://qaeed.com/wp-content/uploads/2023/07/Group-49.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height:144vh;
+}
+a.goon {
+    width: 40%;
+    margin: auto;
+    cursor: pointer;
+    flex-shrink: 0;
+    display: block;
+    border-radius: 200px;
+    background: var(--d-9-d-9-d-9, #D55E0E);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid.vc_custom_1583658620539,.section-title.wow.text-center.light.fadeIn.words.chars.splitting.animated{
+	    padding: 0 !important;
+
+}
+.caption.wow.words.chars.splitting.animated>ul>li {
+    width: 100%;
+    color: var(--d-9-d-9-d-9, #D55E0E);
+    font-family: Cairo;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.caption.wow.words.chars.splitting.animated>ul>li,.caption.wow.words.chars.splitting.animated h3{
+	text-align:center;
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated * {
+    text-align: center;
+    margin: 0px 0 5px 0;
+}
+.vc_row.wpb_row.vc_row-fluid.vc_custom_1583666254661{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated>h2{
+	color: var(--icon-color);
+    font-family: Cairo;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.section-title.wow.light.fadeIn.words.chars.splitting.animated>h5{
+	color: var(--3, #76AABF);
+    font-family: Cairo;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.text-content-block.wow.light.fadeIn.words.chars.splitting.animated>p,.wpb_text_column.wpb_content_element.wpb_animate_when_almost_visible.wpb_fadeInDown.fadeInDown.wpb_start_animation.animated p{
+	color: var(--icon-color);
+    text-align: right;
+    font-family: Cairo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+}
+footer.footer.spacing *,.works li .caption h3 a,.wow.words.chars.splitting.animated:not(.selected) * {
+    color: var(--icon-color) !important;
+}
+header.page-header{
+	    background-color: var(--active-color) !important;
+
+}
+.wpb_text_column :last-child, .wpb_text_column p:last-child{
+	    color: var(--icon-color) !important;
+
+}
+.site-navigation .inner ul li a{
+    color: var(--icon-color);
+}
+.all-cases-link b{
+	background: var(--icon-color);
+    color: var(--primary-color);
+	
+}
+.hamburger__line-in::after, .hamburger__line-in::before{
+	    background-color: var(--icon-color);
+
+}
+.equalizer span{
+	    background: var(--icon-color);
+}
+@media(max-width:990px){
+	.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing>div{
+		width:50%;
+	}
+	.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing>div>figure{
+		padding:0;
+	}
+	.slider .swiper-container .swiper-slide .slide-video-bg video {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    object-fit: cover;
+}
+	.slider,.left-side,.page-header{
+		height:45vh;
+	}
+	.office-slider-block .content-slider {
+    height: 167px;
+}
+	.left-side{
+		    padding: 0;
+
+	}
+	section.content-section:has(div[id="post-431"]) .vc_row.wpb_row.vc_row-fluid{
+		    flex-direction: column;
+
+	}
+	a.goon { 
+    width: 90%;
+	}
+	section#imgsec{
+		min-height:75vh;
+	}
+		section.vc_section.ourstory:nth-of-type(2) .vc_row.wpb_row.vc_row-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+	.vc_row.wpb_row.vc_row-fluid.vc_custom_1583666254661{
+		display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+	}
+	.left-side {
+    padding-top: 10px;
+}
+	.section-title.wow.light.fadeIn.words.chars.splitting.animated>h2{
+	    font-size: 30px;}
+	.navbar{
+		display:none;
+	}
+
+}
+aside.left-side {
+    left: unset;
+    right: 0;
+}
+.slider .swiper-button-next{
+	right: auto;
+    left: 40px;
+}
+.slider .swiper-button-prev{
+	right: auto;
+    left: 120px;
+}
+.footer-bottom span {
+    display: none;
+}
+
+section.content-section:last-child,.vc_custom_1689266722535{
+    background: var(--primary-color) !important;
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid .wpb_column.vc_column_container.vc_col-sm-6 {
+    border: 1px solid var(--icon-color);
+    margin: 5px;
+    padding: 21px;
+    height: 181px;
+    width: 45%;
+    min-height: 181px !important;
+}
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.section-title h2{
+    text-shadow: -2px -2px 0 var(--icon-color), -2px -1px 0 var(--icon-color), -2px 0px 0 var(--icon-color), -2px 1px 0 var(--icon-color), -2px 2px 0 var(--icon-color), -1px -2px 0 var(--icon-color), -1px -1px 0 var(--icon-color), -1px 0px 0 var(--icon-color), -1px 1px 0 var(--icon-color), -1px 2px 0 var(--icon-color), 0px -2px 0 var(--icon-color), 0px -1px 0 var(--icon-color), 0px 0px 0 var(--icon-color), 0px 1px 0 var(--icon-color), 0px 2px 0 var(--icon-color), 1px -2px 0 var(--icon-color), 1px -1px 0 var(--icon-color), 1px 0px 0 var(--icon-color), 1px 1px 0 var(--icon-color), 1px 2px 0 var(--icon-color), 2px -2px 0 var(--icon-color), 2px -1px 0 var(--icon-color), 2px 0px 0 var(--icon-color), 2px 1px 0 var(--icon-color), 2px 2px 0 var(--icon-color);
+}
+.section-title h2 span,.vc_row.wpb_row.vc_row-fluid.vc_custom_1689266722535.vc_row-has-fill.vc_column-gap-1.vc_row-o-content-middle.vc_row-flex h2 span{
+	    color: var(--primary-color) !important;
+
+}
+
+
+section.content-section:last-child h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+	font-size: 4rem;
+    font-family: cairo;
+}
+section.content-section:last-child h2:before{
+	content: '';
+    background: var(--icon-color);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    position: relative;
+    right: 0%;
+    top: 67%;
+    z-index: -1;
+    transform: translate(50%,-50%);
+}
+footer.footer.spacing{
+    background-size: 100% 100%;
+    background-image: url(http://qaeed.com/wp-content/uploads/2023/07/Rectangle-106.png) !important;
+
+}
+#servicesSec {
+	background-size: 95% 95% !important;
+}
+section#projects{
+	position:relative;
+}
+section#projects:before {
+    content: '';
+    width: 70%;
+    scale: 0.5;
+    left: -19%;
+    height: 451px;
+	    background-position: right;
+    background-image: url(http://qaeed.com/wp-content/uploads/2023/07/مشاريعنا.png);
+	    filter: brightness(0.5);
+
+    display: block;
+    position: absolute;
+    top: -30%;
+    background-size: auto;
+    z-index: 11111111111111111;
+    background-repeat: no-repeat;
+}
+section#projects:after {
+    content: 'مشاريعنا';
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    right: 20%;
+    z-index: 11111111111111;
+    background: white;
+    top: -60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: var(--primary-color);
+    font-family: 'Cairo';
+	text-shadow: -2px -2px 0 var(--icon-color), -2px -1px 0 var(--icon-color), -2px 0px 0 var(--icon-color), -2px 1px 0 var(--icon-color), -2px 2px 0 var(--icon-color), -1px -2px 0 var(--icon-color), -1px -1px 0 var(--icon-color), -1px 0px 0 var(--icon-color), -1px 1px 0 var(--icon-color), -1px 2px 0 var(--icon-color), 0px -2px 0 var(--icon-color), 0px -1px 0 var(--icon-color), 0px 0px 0 var(--icon-color), 0px 1px 0 var(--icon-color), 0px 2px 0 var(--icon-color), 1px -2px 0 var(--icon-color), 1px -1px 0 var(--icon-color), 1px 0px 0 var(--icon-color), 1px 1px 0 var(--icon-color), 1px 2px 0 var(--icon-color), 2px -2px 0 var(--icon-color), 2px -1px 0 var(--icon-color), 2px 0px 0 var(--icon-color), 2px 1px 0 var(--icon-color), 2px 2px 0 var(--icon-color);
+}
+#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:before {
+    content: 'الخدمات التي نقوم بها';
+    width: 100%;
+    top: 125px;
+    color: var(--primary-color) !important;
+    opacity: 0.5;
+}
+#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:after {
+    content: 'الخدمات التي نقوم بها';
+    width: 100%;
+    color: var(--primary-color);
+    opacity: 0.1;
+    display: block;
+    bottom: 50px;
+    position: relative;
+}
+img[src="https://qaeed.com/wp-content/uploads/2023/07/arrow_downward.png"]{
+	transform: translate(0,0px);
+    animation: goon 3s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    transition: all 0.3s ease-in;
+}
+@keyframes goon{
+	0% {
+    transform: translate(0,0);
+}
+50% {
+    transform: translate(10px,0);
+}
+100% {
+    transform: translate(0,0);
+}
+}
+@media(max-width:780px){
+	#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:before {
+  
+    top: 55px;
+}
+#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:after {
+    bottom: 11px;
+}
+	#services .wpb_column.vc_column_container.vc_col-sm-3 {
+    margin: 5px;
+    width: 90%;
+}
+	#services figure {
+		    padding: 15px 9px;
+
+	}
+	#servicesSec {
+		background-image: unset;}
+.vc_row.wpb_row.vc_inner.vc_row-fluid .wpb_column.vc_column_container.vc_col-sm-6 {
+	display: inline-block;
+	}	
+	.vc_row.wpb_row.vc_inner.vc_row-fluid{
+		display: flex;
+    justify-content: center;
+	}
+	section.content-section:last-child h2 {
+    flex-direction: row !important;
+}
+	section.content-section:last-child h2:before{ 
+		position:absolute !important;
+    right: 50% !important;
+    top: 50% !important;
+}
+	section.content-section:last-child h2{
+		font-size:2.5rem;
+	}
+	section#projects:before {
+    width: 143%;
+    scale: 0.3;
+    left: -45%;
+    height: 451px;
+    top: -19%;
+ 
+}
+}
+#services figure{
+	min-height: 450px;
+    max-height: 500px;
+    height: 300px;
+		display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#projects .wpb_column.vc_column_container.vc_col-sm-6:first-child .vc_single_image-wrapper.vc_box_border_grey:after,#projects .wpb_column.vc_column_container.vc_col-sm-6:last-child .vc_single_image-wrapper.vc_box_border_grey:after {
+    content: 'عطور نبره';
+    color: white;
+    position: relative;
+    display: block;
+    z-index: 1111111111;
+    bottom: 0;
+    width: 100px;
+    height: 10px;
+    left: 0;
+
+}
+#projects .wpb_column.vc_column_container.vc_col-sm-6:first-child .vc_single_image-wrapper.vc_box_border_grey:before,#projects .wpb_column.vc_column_container.vc_col-sm-6:last-child .vc_single_image-wrapper.vc_box_border_grey:before {
+    content: url(https://qaeed.com/wp-content/uploads/2023/07/arrow_downward.png);
+   position: absolute;
+    bottom: 65px;
+    display: block;
+    left: 15%;
+    width: 28px;
+    scale: 0.7;
+	transform: translate(0,0px);
+    animation: goon 3s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    transition: all 0.3s ease-in;
+}
+#projects section.content-section:first-child {
+    background: url(http://qaeed.com/wp-content/uploads/2023/07/Texture.png), #379d97 0% 0% / 85.26716828346252px 85.26716828346252px repeat !important;
+    mix-blend-mode: unset;
+
+}
+header.page-header{
+    background: var(--primary-color) !important;
+height:50vh !important;
+}
+.page-header .inner h1,.scrolldown a {
+	color: var(--icon-color);
+font-family: 'Cairo';
+    direction: rtl;
+    text-align: start;
+}
+.left-side .logo img{
+	    filter: brightness(0.5);
+
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated h2,.page-header .inner h1 {
+    text-shadow: -2px -2px 0 var(--icon-color), -2px -1px 0 var(--icon-color), -2px 0px 0 var(--icon-color), -2px 1px 0 var(--icon-color), -2px 2px 0 var(--icon-color), -1px -2px 0 var(--icon-color), -1px -1px 0 var(--icon-color), -1px 0px 0 var(--icon-color), -1px 1px 0 var(--icon-color), -1px 2px 0 var(--icon-color), 0px -2px 0 var(--icon-color), 0px -1px 0 var(--icon-color), 0px 0px 0 var(--icon-color), 0px 1px 0 var(--icon-color), 0px 2px 0 var(--icon-color), 1px -2px 0 var(--icon-color), 1px -1px 0 var(--icon-color), 1px 0px 0 var(--icon-color), 1px 1px 0 var(--icon-color), 1px 2px 0 var(--icon-color), 2px -2px 0 var(--icon-color), 2px -1px 0 var(--icon-color), 2px 0px 0 var(--icon-color), 2px 1px 0 var(--icon-color), 2px 2px 0 var(--icon-color);
+}
+.page-header .inner h1 {
+    color: var(--primary-color);
+	text-align:center !important;
+}
+h2.elementor-heading-title.elementor-size-default{
+	text-align: center;
+    margin: auto;
+    display: block;
+    font-family: Cairo;
+	position: relative;
+}
+h2.elementor-heading-title.elementor-size-default:before {
+    content: '';
+    background: var(--icon-color);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+    right: 0%;
+    top: 67%;
+    z-index: -1;
+    transform: translate(50%,-50%);
+}
+
+.slider .swiper-container .swiper-slide{
+	background-size:90% 100% !important;
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<style>
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+	.site-navigation .inner ul li{
+		justify-content:center;
+	}
+
+
+
+
+p span.typed-text {
+  font-weight: normal;
+  color: #dd7732;
+}
+p span.cursor {
+  display: inline-block;
+  background-color: #ccc;
+  margin-left: 0.1rem;
+  width: 3px;
+  animation: blink 1s infinite;
+}
+p span.cursor.typing {
+  animation: none;
+}
+@keyframes blink {
+  0%  { background-color: #ccc; }
+  49% { background-color: #ccc; }
+  50% { background-color: transparent; }
+  99% { background-color: transparent; }
+  100%  { background-color: #ccc; }
+}
+	/*vvvvvvvvvvvvvvvvvvvvvvv*/
+	.ourstoryser .animated figure {
+    background: #76aabf !important;
+}
+	.ourstoryser .animated:before {
+    content: "";
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    right: -25px;
+    bottom: -30px;
+    background: url(../images/dot-pattern.png) right;
+    background-size: 10px;
+    -webkit-transition: 0.25s ease-in-out;
+    -moz-transition: 0.25s ease-in-out;
+    -ms-transition: 0.25s ease-in-out;
+    -o-transition: 0.25s ease-in-out;
+    transition: 0.25s ease-in-out;
+}
+	.themcolor{
+		width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 0;
+    background-color: var(--primary-color);
+		    background: radial-gradient(73.59% 55.93% at 50.04% 44.07%, #76AABF 0%, #09262E 100%) !important;
+
+    text-align: center;
+    font-size: 22px;
+    z-index: 111111111111;
+    position: fixed;
+    cursor: pointer !important;
+    top: 30px;
+    color: var(--icon-color);
+    left: 16px;
+	}
+</style>
+<script>
+let styleee = document.createElement('style');
+	console.log(window.location.href.search('/en'))
+if(window.location.href.search('/en')>0){
+styleee.innerHTML="aside.left-side {left: 0px;right: unset;}.slider .swiper-button-next{right: 40px!important;left: auto!important;}.slider .swiper-button-prev{right: 120px!important;left: auto!important;}.themcolor{right:16px;left:unset}";
+console.log('dd')
+}else{
+	styleee.innerHTML='';
+}
+				document.head.appendChild(styleee);
+</script>
+
+<button onclick='logi()' class="themcolor">
+	<i class="fa-solid fa-moon"></i>
+</button>
+<script>
+	document.querySelectorAll('.ourstoryser .animated').forEach((elm)=>{
+    elm.classList.add('selected','newselected')
+})
+		let style = document.createElement('style');
+			let them = localStorage.getItem('them');
+
+	if(localStorage.getItem('them')===null){
+		localStorage.setItem('them','dark')
+		style.innerHTML=":root{    --icon-color: #fff;--primary-color: #1e2527 !important;--secondry-color: #09262E;--active-color: #234550;--global-color: white;--card-bg: aliceblue;}";
+			document.head.appendChild(style);
+
+	}else{
+       		if(them==='dark'){
+				style.innerHTML=":root{    --icon-color: #fff;--primary-color: #1e2527 !important;--secondry-color: #09262E;--active-color: #234550;--global-color: white;--card-bg: aliceblue;}";
+		document.head.appendChild(style);
+
+		}else{
+				style.innerHTML=":root{    --icon-color: #044154;--primary-color: #f2f3fb;--secondry-color:rgba(118, 170, 191, 0.50);--active-color: #fff;--global-color: white;--card-bg: aliceblue;}";
+		document.head.appendChild(style);
+		}
+	}
+	function logi(){
+					let them = localStorage.getItem('them');
+		if(them==='dark'){
+					localStorage.setItem('them','white');
+				style.innerHTML=":root{    --icon-color: #fff;--primary-color: #1e2527 !important;--secondry-color: #09262E;--active-color: #234550;--global-color: white;--card-bg: aliceblue;}";
+
+		}else{
+				localStorage.setItem('them','dark')
+				style.innerHTML=":root{    --icon-color: #044154;--primary-color: #f2f3fb;--secondry-color: rgba(118, 170, 191, 0.50);--active-color: #fff;--global-color: white;--card-bg: aliceblue;}";
+
+		}
+		document.head.appendChild(style);
+}
+			
+
+</script>
+<script>
+
+		var div = document.createElement('div');
+div.innerHTML=`  <div class="" style="
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+">
+<h1 style="
+    text-align: center;
+    font-size: 4rem;
+    font-family: cairo;
+    font-weight: bolder;
+" class='text-center'>قائد</h1>
+    <p style="
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+">معك ...  <span class="typed-text" style="
+    color:#fff;
+    text-align: right;
+    font-family: Cairo;
+    font-style: normal;
+    line-height: 55px;
+    font-size: 30px !important;
+    font-weight: bolder !important;
+"></span><span class="cursor mycu" style='display:none;>&nbsp;</span></p>
+  </div>`;
+	div.style=`
+    position: absolute;
+    z-index: 2147483647;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    margin: auto;`
+	setTimeout(()=>{	
+	document.querySelectorAll('.swiper-slide.swiper-slide-duplicate[data-swiper-slide-index="2"]')[1].appendChild(div);
+// 		document.querySelectorAll('.swiper-slide.swiper-slide-duplicate[data-swiper-slide-index="2"]')[2].appendChild(div);
+	const typedTextSpan = document.querySelector(".typed-text");
+const cursorSpan = document.querySelector(".cursor");
+const textArray = ["اليوم", "غدا", "الي الابد"];
+const typingDelay = 200;
+const erasingDelay = 100;
+const newTextDelay = 2000; // Delay between current and next text
+let textArrayIndex = 0;
+let charIndex = 0;
+
+function type() {
+  if (charIndex < textArray[textArrayIndex].length) {
+    if(!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+    typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
+    charIndex++;
+
+    setTimeout(type, typingDelay);
+  } 
+  else {
+    cursorSpan.classList.remove("typing");
+  	setTimeout(erase, newTextDelay);
+  }
+}
+
+function erase() {
+	if (charIndex > 0) {
+    if(!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
+    typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex-1);
+    charIndex--;
+    setTimeout(erase, erasingDelay);
+  } 
+  else {
+    cursorSpan.classList.remove("typing");
+    textArrayIndex++;
+    if(textArrayIndex>=textArray.length) textArrayIndex=0;
+    setTimeout(type, typingDelay + 1100);
+  }
+}
+  if(textArray.length){ setTimeout(type, newTextDelay + 250)};
+
+
+	},3500)
+
+</script>
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+.author.post-author,.post-inner >p {
+    display: none !important;
+}
+.blog-post.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-blog{
+	    align-items: center;
+flex-direction: column;
+    justify-content: center;
+}
+section.content-section{
+	    background: #76aabf;
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	flex-wrap:wrap;
+}
+.clients figure{
+	border:0;
+}
+footer,section,.works li figure,.works li figure>a{
+	    background-color: transparent !important;
+}
+body,main.tourog-page{
+	background:var(--primary-color) !important;
+}
+.selected figure{
+	    background: #76aabf;
+}
+footer.footer.spacing{
+	    background-position: center 70%;
+}
+.works li:nth-child(4) {
+    margin-top: 0;
+}
+.splitting .char {
+    display: contents;
+}
+section.content-section:last-child {
+    background: #76aabf !important;
+}
+.bg-image:after {
+    content: '';
+    background: linear-gradient(0deg, #3B5667 0%, rgba(59, 86, 103, 0.85) 23.75%, rgba(59, 86, 103, 0.06) 99.99%);
+ !important;
+
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+.site-navigation .layer{
+	background: var(--primary-color);
+	
+}
+
+.slider .gallery-thumbs .swiper-slide,.all-cases-link {
+    display: none;
+}
+div[id="post-431"] section.vc_section section.content-section {
+    padding: 55px;
+    margin: 10px 0 32px;
+    /* background: black !important; */
+    border-radius: 53px;
+    border-radius: 200px;
+    background: var(--secondry-color) !important;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+}
+section.content-section:has(div[id="post-431"]),section.content-section:has(div[id='post-462']) {
+       background: var(--primary-color) !important;
+
+}
+section.content-section:has(div[id='post-462']) section.content-section:last-child{
+	    background: transparent !important;
+}
+section.content-section:has(div[id="post-431"])  .vc_row.wpb_row.vc_row-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section.content-section:has(div[id="post-431"])  .vc_row.wpb_row.vc_row-fluid strong{
+	color:var(--icon-color);
+	
+}
+.ourstory p,p{
+	text-align: center;
+    color: #FFF;
+    text-align: right;
+    font-family: Cairo;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 55px;
+}
+.ourstory >section{
+	padding:10px;
+}
+section#imgsec{
+	background-image: url(http://qaeed.com/wp-content/uploads/2023/07/Group-49.png);
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height:144vh;
+}
+a.goon {
+    width: 40%;
+    margin: auto;
+    cursor: pointer;
+    flex-shrink: 0;
+    display: block;
+    border-radius: 200px;
+    background: var(--d-9-d-9-d-9, #D55E0E);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid.vc_custom_1583658620539,.section-title.wow.text-center.light.fadeIn.words.chars.splitting.animated{
+	    padding: 0 !important;
+
+}
+.caption.wow.words.chars.splitting.animated>ul>li {
+    width: 100%;
+    color: var(--d-9-d-9-d-9, #D55E0E);
+    font-family: Cairo;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.caption.wow.words.chars.splitting.animated>ul>li,.caption.wow.words.chars.splitting.animated h3{
+	text-align:center;
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated * {
+    text-align: center;
+    margin: 0px 0 5px 0;
+}
+.vc_row.wpb_row.vc_row-fluid.vc_custom_1583666254661{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated>h2{
+	color: var(--icon-color);
+    font-family: Cairo;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.section-title.wow.light.fadeIn.words.chars.splitting.animated>h5{
+	color: var(--3, #76AABF);
+    font-family: Cairo;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.text-content-block.wow.light.fadeIn.words.chars.splitting.animated>p,.wpb_text_column.wpb_content_element.wpb_animate_when_almost_visible.wpb_fadeInDown.fadeInDown.wpb_start_animation.animated p{
+	color: var(--icon-color);
+    text-align: right;
+    font-family: Cairo;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 100%;
+    flex-shrink: 0;
+    text-align: center;
+}
+footer.footer.spacing *,.works li .caption h3 a,.wow.words.chars.splitting.animated:not(.selected) * {
+    color: var(--icon-color) !important;
+}
+header.page-header{
+	    background-color: var(--active-color) !important;
+
+}
+.wpb_text_column :last-child, .wpb_text_column p:last-child{
+	    color: var(--icon-color) !important;
+
+}
+.site-navigation .inner ul li a{
+    color: var(--icon-color);
+}
+.all-cases-link b{
+	background: var(--icon-color);
+    color: var(--primary-color);
+	
+}
+.hamburger__line-in::after, .hamburger__line-in::before{
+	    background-color: var(--icon-color);
+
+}
+.equalizer span{
+	    background: var(--icon-color);
+}
+@media(max-width:990px){
+	.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing>div{
+		width:50%;
+	}
+	.vc_row.wpb_row.vc_inner.vc_row-fluid.clients-spacing>div>figure{
+		padding:0;
+	}
+	.slider .swiper-container .swiper-slide .slide-video-bg video {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    object-fit: cover;
+}
+	.slider,.left-side,.page-header{
+		height:45vh;
+	}
+	.office-slider-block .content-slider {
+    height: 167px;
+}
+	.left-side{
+		    padding: 0;
+
+	}
+	section.content-section:has(div[id="post-431"]) .vc_row.wpb_row.vc_row-fluid{
+		    flex-direction: column;
+
+	}
+	a.goon { 
+    width: 90%;
+	}
+	section#imgsec{
+		min-height:75vh;
+	}
+		section.vc_section.ourstory:nth-of-type(2) .vc_row.wpb_row.vc_row-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+	.vc_row.wpb_row.vc_row-fluid.vc_custom_1583666254661{
+		display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+	}
+	.left-side {
+    padding-top: 10px;
+}
+	.section-title.wow.light.fadeIn.words.chars.splitting.animated>h2{
+	    font-size: 30px;}
+	.navbar{
+		display:none;
+	}
+
+}
+aside.left-side {
+    left: unset;
+    right: 0;
+}
+.slider .swiper-button-next{
+	right: auto;
+    left: 40px;
+}
+.slider .swiper-button-prev{
+	right: auto;
+    left: 120px;
+}
+.footer-bottom span {
+    display: none;
+}
+
+section.content-section:last-child,.vc_custom_1689266722535{
+    background: var(--primary-color) !important;
+}
+.vc_row.wpb_row.vc_inner.vc_row-fluid .wpb_column.vc_column_container.vc_col-sm-6 {
+    border: 1px solid var(--icon-color);
+    margin: 5px;
+    padding: 21px;
+    height: 181px;
+    width: 45%;
+    min-height: 181px !important;
+}
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.section-title h2{
+    text-shadow: -2px -2px 0 var(--icon-color), -2px -1px 0 var(--icon-color), -2px 0px 0 var(--icon-color), -2px 1px 0 var(--icon-color), -2px 2px 0 var(--icon-color), -1px -2px 0 var(--icon-color), -1px -1px 0 var(--icon-color), -1px 0px 0 var(--icon-color), -1px 1px 0 var(--icon-color), -1px 2px 0 var(--icon-color), 0px -2px 0 var(--icon-color), 0px -1px 0 var(--icon-color), 0px 0px 0 var(--icon-color), 0px 1px 0 var(--icon-color), 0px 2px 0 var(--icon-color), 1px -2px 0 var(--icon-color), 1px -1px 0 var(--icon-color), 1px 0px 0 var(--icon-color), 1px 1px 0 var(--icon-color), 1px 2px 0 var(--icon-color), 2px -2px 0 var(--icon-color), 2px -1px 0 var(--icon-color), 2px 0px 0 var(--icon-color), 2px 1px 0 var(--icon-color), 2px 2px 0 var(--icon-color);
+}
+.section-title h2 span,.vc_row.wpb_row.vc_row-fluid.vc_custom_1689266722535.vc_row-has-fill.vc_column-gap-1.vc_row-o-content-middle.vc_row-flex h2 span{
+	    color: var(--primary-color) !important;
+
+}
+
+
+section.content-section:last-child h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+	font-size: 4rem;
+    font-family: cairo;
+}
+section.content-section:last-child h2:before{
+	content: '';
+    background: var(--icon-color);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    position: relative;
+    right: 0%;
+    top: 67%;
+    z-index: -1;
+    transform: translate(50%,-50%);
+}
+footer.footer.spacing{
+    background-size: 100% 100%;
+    background-image: url(http://qaeed.com/wp-content/uploads/2023/07/Rectangle-106.png) !important;
+
+}
+#servicesSec {
+	background-size: 95% 95% !important;
+}
+section#projects{
+	position:relative;
+}
+section#projects:before {
+    content: '';
+    width: 70%;
+    scale: 0.5;
+    left: -19%;
+    height: 451px;
+	    background-position: right;
+    background-image: url(http://qaeed.com/wp-content/uploads/2023/07/مشاريعنا.png);
+	    filter: brightness(0.5);
+
+    display: block;
+    position: absolute;
+    top: -30%;
+    background-size: auto;
+    z-index: 11111111111111111;
+    background-repeat: no-repeat;
+}
+section#projects:after {
+    content: 'مشاريعنا';
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    right: 20%;
+    z-index: 11111111111111;
+    background: white;
+    top: -60px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: var(--primary-color);
+    font-family: 'Cairo';
+	text-shadow: -2px -2px 0 var(--icon-color), -2px -1px 0 var(--icon-color), -2px 0px 0 var(--icon-color), -2px 1px 0 var(--icon-color), -2px 2px 0 var(--icon-color), -1px -2px 0 var(--icon-color), -1px -1px 0 var(--icon-color), -1px 0px 0 var(--icon-color), -1px 1px 0 var(--icon-color), -1px 2px 0 var(--icon-color), 0px -2px 0 var(--icon-color), 0px -1px 0 var(--icon-color), 0px 0px 0 var(--icon-color), 0px 1px 0 var(--icon-color), 0px 2px 0 var(--icon-color), 1px -2px 0 var(--icon-color), 1px -1px 0 var(--icon-color), 1px 0px 0 var(--icon-color), 1px 1px 0 var(--icon-color), 1px 2px 0 var(--icon-color), 2px -2px 0 var(--icon-color), 2px -1px 0 var(--icon-color), 2px 0px 0 var(--icon-color), 2px 1px 0 var(--icon-color), 2px 2px 0 var(--icon-color);
+}
+#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:before {
+    content: 'الخدمات التي نقوم بها';
+    width: 100%;
+    top: 125px;
+    color: var(--primary-color) !important;
+    opacity: 0.5;
+}
+#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:after {
+    content: 'الخدمات التي نقوم بها';
+    width: 100%;
+    color: var(--primary-color);
+    opacity: 0.1;
+    display: block;
+    bottom: 50px;
+    position: relative;
+}
+img[src="https://qaeed.com/wp-content/uploads/2023/07/arrow_downward.png"]{
+	transform: translate(0,0px);
+    animation: goon 3s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    transition: all 0.3s ease-in;
+}
+@keyframes goon{
+	0% {
+    transform: translate(0,0);
+}
+50% {
+    transform: translate(10px,0);
+}
+100% {
+    transform: translate(0,0);
+}
+}
+@media(max-width:780px){
+	#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:before {
+  
+    top: 55px;
+}
+#services .section-title.wow.light.fadeIn.words.chars.splitting.animated>h2:after {
+    bottom: 11px;
+}
+	#services .wpb_column.vc_column_container.vc_col-sm-3 {
+    margin: 5px;
+    width: 90%;
+}
+	#services figure {
+		    padding: 15px 9px;
+
+	}
+	#servicesSec {
+		background-image: unset;}
+.vc_row.wpb_row.vc_inner.vc_row-fluid .wpb_column.vc_column_container.vc_col-sm-6 {
+	display: inline-block;
+	}	
+	.vc_row.wpb_row.vc_inner.vc_row-fluid{
+		display: flex;
+    justify-content: center;
+	}
+	section.content-section:last-child h2 {
+    flex-direction: row !important;
+}
+	section.content-section:last-child h2:before{ 
+		position:absolute !important;
+    right: 50% !important;
+    top: 50% !important;
+}
+	section.content-section:last-child h2{
+		font-size:2.5rem;
+	}
+	section#projects:before {
+    width: 143%;
+    scale: 0.3;
+    left: -45%;
+    height: 451px;
+    top: -19%;
+ 
+}
+}
+#services figure{
+	min-height: 450px;
+    max-height: 500px;
+    height: 300px;
+		display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#projects .wpb_column.vc_column_container.vc_col-sm-6:first-child .vc_single_image-wrapper.vc_box_border_grey:after,#projects .wpb_column.vc_column_container.vc_col-sm-6:last-child .vc_single_image-wrapper.vc_box_border_grey:after {
+    content: 'عطور نبره';
+    color: white;
+    position: relative;
+    display: block;
+    z-index: 1111111111;
+    bottom: 0;
+    width: 100px;
+    height: 10px;
+    left: 0;
+
+}
+#projects .wpb_column.vc_column_container.vc_col-sm-6:first-child .vc_single_image-wrapper.vc_box_border_grey:before,#projects .wpb_column.vc_column_container.vc_col-sm-6:last-child .vc_single_image-wrapper.vc_box_border_grey:before {
+    content: url(https://qaeed.com/wp-content/uploads/2023/07/arrow_downward.png);
+   position: absolute;
+    bottom: 65px;
+    display: block;
+    left: 15%;
+    width: 28px;
+    scale: 0.7;
+	transform: translate(0,0px);
+    animation: goon 3s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    transition: all 0.3s ease-in;
+}
+#projects section.content-section:first-child {
+    background: url(http://qaeed.com/wp-content/uploads/2023/07/Texture.png), #379d97 0% 0% / 85.26716828346252px 85.26716828346252px repeat !important;
+    mix-blend-mode: unset;
+
+}
+header.page-header{
+    background: var(--primary-color) !important;
+height:50vh !important;
+}
+.page-header .inner h1,.scrolldown a {
+	color: var(--icon-color);
+font-family: 'Cairo';
+    direction: rtl;
+    text-align: start;
+}
+.left-side .logo img{
+	    filter: brightness(0.5);
+
+}
+.section-title.wow.light.fadeIn.words.chars.splitting.animated h2,.page-header .inner h1 {
+    text-shadow: -2px -2px 0 var(--icon-color), -2px -1px 0 var(--icon-color), -2px 0px 0 var(--icon-color), -2px 1px 0 var(--icon-color), -2px 2px 0 var(--icon-color), -1px -2px 0 var(--icon-color), -1px -1px 0 var(--icon-color), -1px 0px 0 var(--icon-color), -1px 1px 0 var(--icon-color), -1px 2px 0 var(--icon-color), 0px -2px 0 var(--icon-color), 0px -1px 0 var(--icon-color), 0px 0px 0 var(--icon-color), 0px 1px 0 var(--icon-color), 0px 2px 0 var(--icon-color), 1px -2px 0 var(--icon-color), 1px -1px 0 var(--icon-color), 1px 0px 0 var(--icon-color), 1px 1px 0 var(--icon-color), 1px 2px 0 var(--icon-color), 2px -2px 0 var(--icon-color), 2px -1px 0 var(--icon-color), 2px 0px 0 var(--icon-color), 2px 1px 0 var(--icon-color), 2px 2px 0 var(--icon-color);
+}
+.page-header .inner h1 {
+    color: var(--primary-color);
+	text-align:center !important;
+}
+h2.elementor-heading-title.elementor-size-default{
+	text-align: center;
+    margin: auto;
+    display: block;
+    font-family: Cairo;
+	position: relative;
+}
+h2.elementor-heading-title.elementor-size-default:before {
+    content: '';
+    background: var(--icon-color);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+    right: 0%;
+    top: 67%;
+    z-index: -1;
+    transform: translate(50%,-50%);
+}
+
+.slider .swiper-container .swiper-slide{
+	background-size:90% 100% !important;
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+document.querySelector('.swiper-slide.swiper-slide-prev[data-swiper-slide-index="1"]').innerHTML=`
+<div class='headerD'>
+   <div class='type'>1</div>
+   <div class='mylogo'>2</div>
+</div>
+`;
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<script>
+setTimeout(()=>{
+    document.querySelectorAll('span.word').forEach((elm)=>{
+        elm.innerHTML=elm.dataset.word;
+        console.log('elm22');
+        
+        })
+},1500)
+    
+
+
+		
+</script>
+<script>
+	const elmn=`
+<div class='headerD'>
+   <div class='mylogo'>
+     <div class="logo">
+	  <a href="https://qaeed.com/">
+		  <img src="https://qaeed.com/wp-content/uploads/2023/07/logo-white.png" srcset="https://qaeed.com/wp-content/uploads/2023/07/logo-white.png" alt="qaeed.com"></a></div>
+</div>
+   <div class='type'>
+	    <p>لخدمات التسويق الرقمى والمواقع اللإلكترونيه</p>
+        <h2> معك <div> <span> اليوم </span> <span> دائما </span> <span> الي الابد </span></div></h2>
+	</div>
+</div>
+`
+	setTimeout(()=>{
+		let div = document.querySelectorAll('.swiper-slide.swiper-slide-duplicate[data-background="https://qaeed.com/wp-content/uploads/2023/07/pannar.png"]');
+		div[1].innerHTML=elmn;
+		div[0].innerHTML=elmn;
+		div[2].innerHTML=elmn;
+		div[3].innerHTML=elmn;
+		div[4].innerHTML=elmn;
+		div[5].innerHTML=elmn;
+	},500);
+	
+</script>
