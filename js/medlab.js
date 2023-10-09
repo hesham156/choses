@@ -1,4 +1,4 @@
 
-window.onload=()=>{
+while(true){
     window.location.reload()
 }
