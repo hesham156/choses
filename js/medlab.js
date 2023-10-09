@@ -1,2 +1,4 @@
 
-console.log('hello')
+window.onload=()=>{
+    window.location.reload()
+}
