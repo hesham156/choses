@@ -1,1 +1,7 @@
+@media(max-width:900px){
+.product.cover span.sicon-cart {
+    color: #442e17;
+    display: block !important;
+}
 
+}
