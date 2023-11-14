@@ -3,5 +3,7 @@
     color: #442e17;
     display: block !important;
 }
-
+a.product-add.add_to_cart_btn:before{
+     display: none; 
+}
 }
