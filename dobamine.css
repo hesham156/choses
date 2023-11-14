@@ -10,4 +10,8 @@ a.product-add.add_to_cart_btn:before{
         color: #442e17 !important;
 
     }
+    .section-header .section-actions .circle-action {
+    border-color: #442e17;
+    background-color: #442e17;
+}
 }
