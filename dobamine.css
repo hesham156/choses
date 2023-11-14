@@ -1,9 +1,9 @@
 @media(max-width:900px){
 .product.cover span.sicon-cart {
-    color: #442e17;
+    color: #442e17 !important;
     display: block !important;
 }
 a.product-add.add_to_cart_btn:before{
-     display: none; 
+     display: none !important; 
 }
 }
