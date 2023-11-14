@@ -6,6 +6,8 @@
 a.product-add.add_to_cart_btn:before{
      display: none !important; 
 }
+
+}
     .section-header .section--title span{
         color: #442e17 !important;
 
@@ -14,4 +16,8 @@ a.product-add.add_to_cart_btn:before{
     border-color: #442e17;
     background-color: #442e17;
 }
+
+.cart-nav-submit, .cart-nav-more, .cart-nav-solid {
+    background: #442e17;
+    border-color: #1d0700;
 }
