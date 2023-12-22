@@ -1,0 +1,45 @@
+/* Add custom CSS styles below */ 
+.lazy__bg.lazy.entered.loaded {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.banner-entry{
+    background:transparent;
+    height: 300px !important;
+}
+.top-navbar:not(.topnav-has-bg),.main-nav-container,.product-card{
+    background:transparent;
+
+}
+.two-row .banner-entry:first-child {
+    grid-column: unset;
+    grid-row: unset;
+}
+section.s-block.s-block--banners.container {
+    max-width: 70%;
+}
+.slider-wrap.relative.lg\:w-2\/3.pb-20.lg\:pt-20.lg\:pb-28.\32 xl\:px-2\.5 {
+    width: 100%;
+    margin: 0;
+}
+.lg\:w-1\/3.flex.items-center.justify-center.bg-cover.bg-no-repeat.text-center.relative.min-h-\[250px\].max-h-\[350px\].md\:max-h-\[700px\].has-overlay--opacity-option.has-overlay--opacity-0{
+    display: none;
+
+}
+img[src="https://cdn.salla.sa/form-builder/ajO7i4Fx0jVD4bVRMDxlNc8aL54iMziCHpFkxcdH.png"] {
+    width: 30%;
+    margin: auto;
+}
+.app-inner.flex.flex-col.min-h-full.bg-storeBG{
+background-image: url(https://i.ibb.co/mFzhPFw/background.png);
+    background-size: auto;
+}
+.store-footer__inner, .store-footer__newsletter{
+    background-color: hsl(193.68deg 87.69% 12.75%);
+
+}
+footer.store-footer{
+border-radius: 50px 50px 0 0;
+    overflow: hidden;
+}
